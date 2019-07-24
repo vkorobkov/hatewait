@@ -1,4 +1,4 @@
-## Hatewait [![Build Status](https://travis-ci.org/vkorobkov/hatewait.svg?branch=master)](https://travis-ci.org/vkorobkov/hatewait) [![Go Report Card](https://goreportcard.com/badge/github.com/vkorobkov/hatewait)](https://goreportcard.com/report/github.com/vkorobkov/hatewait)
+## Hatewait [![Build Status](https://travis-ci.org/vkorobkov/hatewait.svg?branch=master)](https://travis-ci.org/vkorobkov/hatewait) [![Go Report Card](https://goreportcard.com/badge/github.com/vkorobkov/hatewait)](https://goreportcard.com/report/github.com/vkorobkov/hatewait) [![GoDoc](https://godoc.org/github.com/vkorobkov/hatewait?status.svg)](https://godoc.org/github.com/vkorobkov/hatewait)
 Minimalistic "stopwatch" implementation. 
 Written in Golang 1.12. Dependencies free. 
 
