@@ -1,6 +1,4 @@
-[![Build Status](https://travis-ci.org/vkorobkov/hatewait.svg?branch=master)](https://travis-ci.org/vkorobkov/hatewait)
-
-## Hatewait
+## Hatewait [![Build Status](https://travis-ci.org/vkorobkov/hatewait.svg?branch=master)](https://travis-ci.org/vkorobkov/hatewait)
 Minimalistic "stopwatch" implementation. 
 Written in Golang 1.12. Dependencies free. 
 
