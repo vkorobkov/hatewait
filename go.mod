@@ -1,8 +1,3 @@
 module github.com/vkorobkov/hatewait
 
-go 1.12
-
-
-require (
-
-)
+go 1.13
